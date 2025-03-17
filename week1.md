@@ -1,0 +1,11 @@
+#遇到的问题
+##1.
+![输入图片说明](/imgs/2025-03-17/q4u2EnDxmvSJHLFR.png)![输入图片说明](/imgs/2025-03-17/4P4QJmnhvL3qfadN.jpeg)新的AndroidStudio貌似和老版本不太一样，看书的时候一比一写下代码缺总是报错。
+问了豆包和chat一万遍之后选择去咸鱼求教...
+##2.
+![输入图片说明](/imgs/2025-03-17/nyAIeBhNdH1WXWQa.jpeg)下载git的过程也是困难百出，这个笔记里的界面和我的AndroidStudio界面已经长得不一样了，好多东西都是不同的了。
+##3.
+新创了一个project之后gradle下载的特别慢开始还以为是电脑的问题，最终在小红书找到了答案![输入图片说明](/imgs/2025-03-17/pYVQ4pr5OrjEOePy.jpeg)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzQ5MDQ0MjgzXX0=
+-->
