@@ -19,10 +19,19 @@ return true;
 ```
 ==代码报错提示 “错误：需要常量表达式”==
 
-在试了很多方法之后改成：
+在试了很多方法之后改成：if语句
+```
+if (item.getItemId() == R.id.add_item) {  
+    Toast.makeText(this, "You clicked Add", Toast.LENGTH_SHORT).show();  
+    return true;  
+} else if (item.getItemId() == R.id.remove_item) {  
+    Toast.makeText(this, "You clicked Remove", Toast.LENGTH_SHORT).show();  
+    return true;  
+}  
+return super.onOptionsItemSelected(item);
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjYyNDEzMjQsNjk2ODczNDMxXX0=
+eyJoaXN0b3J5IjpbLTE5NDQyNTYyMDcsNjk2ODczNDMxXX0=
 -->
