@@ -3,8 +3,9 @@
 ## 2.
 终于在我的不懈努力下成功将git接入了androidstudio，但是要怎么严谨的上传我还是一头雾水。我决定先在学习一下代码，上传什么的等过两天再说吧，，，今天已经把一天的时间花在github上了，是因为我比较笨吗？在这上面花什么久时间。
 ## 3.
-有一种写一行代码就回出现一个bug的感觉：
-
+有一种写一行代码就回出现一个bug的感觉。
+照着书本一模一样写的代码：
+```
 switch(item.getItemId()){
     case R.id.add_item:
         Toast.makeText(this,"You clicked Add",Toast.LENGTH_SHORT).show();
@@ -15,7 +16,13 @@ switch(item.getItemId()){
     default:
 }
 return true;
-代码报错提示 “错误：需要常量表达式”
+```
+==代码报错提示 “错误：需要常量表达式”==
+
+在试了很多方法之后改成：
+```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTA4NTEyODEsNjk2ODczNDMxXX0=
+eyJoaXN0b3J5IjpbLTEwNjYyNDEzMjQsNjk2ODczNDMxXX0=
 -->
