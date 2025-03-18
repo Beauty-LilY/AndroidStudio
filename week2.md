@@ -31,10 +31,10 @@ if (item.getItemId() == R.id.add_item) {
 return super.onOptionsItemSelected(item);
 ```
 ## 4.
-忘记了AndroidManifast
+忘记了AndroidManifest会自动生成activity,自己又写了一遍然后一直报错，找了很久bug又刷新了很多次都没发现bug在哪。最后是把代码全都发给
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzc4MjkxNjMsLTE5NDQyNTYyMDddfQ
+eyJoaXN0b3J5IjpbLTE5NTE4MTE1NTQsLTE5NDQyNTYyMDddfQ
 ==
 -->
