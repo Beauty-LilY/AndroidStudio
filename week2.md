@@ -31,9 +31,10 @@ if (item.getItemId() == R.id.add_item) {
 return super.onOptionsItemSelected(item);
 ```
 ## 4.
-
+忘记了AndroidManifast
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTA3MzIxNywtMTk0NDI1NjIwN119
+eyJoaXN0b3J5IjpbLTE3Nzc4MjkxNjMsLTE5NDQyNTYyMDddfQ
+==
 -->
