@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:title="首页"
+        android:icon="@drawable/baseline_home_24"/>
+
+    <item android:id="@+id/project"
+        android:title="项目"
+        android:icon="@drawable/baseline_list_24"/>
+
+    <item android:id="@+id/category"
+        android:title="分类"
+        android:icon="@drawable/baseline_category_24"/>
+
+    <item android:id="@+id/mine"
+        android:title="我的"
+        android:icon="@drawable/baseline_account_circle_24"/>
+
+
+</menu>
